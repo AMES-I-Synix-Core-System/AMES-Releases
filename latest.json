@@ -1,11 +1,11 @@
 {
-  "version": "9.1.4",
-  "notes": "Clean-up: SEMA and EXIT everywhere instead of the old Back and Close buttons.",
-  "pub_date": "2026-10-17T23:33:13Z",
+  "version": "9.1.5",
+  "notes": "B-COS: type update to check for a newer AMES (and install it); type build to see the build. Includes v9.1.4: SEMA and EXIT everywhere.",
+  "pub_date": "2026-10-17T23:43:12Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU2xaNEgzSjlEeHZtcEg4TExDRVo0RU5nN2dQbk1HbjlIenhCUEozNVZpTDBIc1ZjOGlPTWVyTXhiSFBtd2ZWVFUvZkZab3Bna3BtemFKY2RRd25zK1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjc5OTkyCWZpbGU6QU1FU185LjEuNF94NjQtc2V0dXAuZXhlCkk0SWtSUmtIdTZiR0szTytjcHpud1JnckFFUWZtdWRVT3hvbDNvTVJOWFlOWVR5ZlJ2a0hWVXAzQVd5YzJiQlZyWWNPcDNjT2xtOTl5UjI2eFI3ZURRPT0K",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.1.4/AMES_9.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3RSUFkyNU81b2Zwa1RmWXlFczViSzVJNlBMb0ZzVjY2eW8rejE4NjBvbFkxdUV5THU0RDB1aTZISGZ1SWpjVUdRVmNlSGZrL2w1WjhqSjdFbjNiM2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjgwNTkyCWZpbGU6QU1FU185LjEuNV94NjQtc2V0dXAuZXhlCmJOYUMwMGcvcHJwL3lmNEN6bXZobVB2YnhyT1gxWlU1STFhaXQ3Tk56M21aV0x2L2FnSFlTUVNTR1oraEVQZkxrWkRBcEJveXBCelFXblFQbXZDU0FRPT0K",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.1.5/AMES_9.1.5_x64-setup.exe"
     }
   }
 }

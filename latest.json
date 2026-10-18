@@ -1,11 +1,11 @@
 {
-  "version": "9.2.0",
-  "notes": "The SU door: Me (Account, Management, Password & Recovery, 7-try rule, Forgot password), Look (fonts in their own style, live scaling, Interface sliders), Workspace (pop-outs, Layout, Tools, Management), My Work, right-click menu with spelling and AI Help. Pro Suites hidden.",
-  "pub_date": "2026-10-18T05:35:16Z",
+  "version": "9.3.0",
+  "notes": "AMES v9.03.00 \u2014 Fonts you can use (top 50 built in, one-click install, download others, bring your own). Update bar up front. AMES Mail: simulated mail gone, Select All / Delete All, mail rules, Not Spam. Standby + screen saver (Ctrl + `). Fold/exit loop fixed.",
+  "pub_date": "2026-10-18T14:19:16Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3VwNTNBaUk1Y2FDaU5ZYWpnRkpQTlhQbFVSanN4RDhDaWlUSWVtUzVnQTg5dEx2dlBiUDlsSDlSNThMbnZKbmpwZmhGUzYweG1RalhoODY2dTc2YndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzAxNzE1CWZpbGU6QU1FU185LjIuMF94NjQtc2V0dXAuZXhlCm1ORFVLZmNUZng1bW9WSytZejAydmxKK1hRbnlGclV4OGwwUXZLOXE1VC9yVCs5VS9TdENPY3FmLzBBT3g3MVhGT0ZmMDRaQ0diM0NoZG9xZkw5WENnPT0K",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.2.0/AMES_9.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU21RMDFKbjMxbCtnS2JNZWw4YWVVVG1OQ25MU3BvZ1pKMmNJaE1uTVM2elFDbWxudTJrc21VTjNGWXl4RENsTy9CL3NLUHpZNnJOYjFSZVNIQ0RpOUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzMzMTU1CWZpbGU6QU1FU185LjMuMF94NjQtc2V0dXAuZXhlCjlsYUpOYWlwYjU4SVNYL3dNSjl4ZlVrOXNnMlpTSUduc05WSnpYYmJOOGZ4alE3S05adi9VODk1Z29SbmowL1lZaFNQRHBob0g5dDQ5WU1rY3JIZ0N3PT0K",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.3.0/AMES_9.3.0_x64-setup.exe"
     }
   }
 }

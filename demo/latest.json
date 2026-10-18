@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "notes": "AMES BETA DEMO v1.00.00 \u2014 first demo. REPORT A BUG button in AMES Mail.",
-  "pub_date": "2026-10-18T01:44:12Z",
+  "version": "1.0.1",
+  "notes": "AMES BETA DEMO v1.00.01 \u2014 Fonts you can use (top 50 built in, one-click install, bring your own). Update bar at the top. AMES Mail: Select All / Delete All, mail rules, Not Spam. Standby + screen saver (Ctrl + `). Fold/exit fix.",
+  "pub_date": "2026-10-18T14:44:33Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3NUeWg1eDlsV3pjZmNXZHZwOHppWHFyRjlqRTkvcUFJa1l2Zk5kUnlRQlNvNWNHcVZScUZ1eHFZMEdWWGdNdGdIQ2NTTFFrT0djZ1NHSHd5dzNucWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjg3ODUxCWZpbGU6QU1FU19CRVRBX0RFTU9fMS4wLjBfeDY0LXNldHVwLmV4ZQpIc0JXZ0c2NjdvMWwvUVhPVzdtaTNFUHNLUEZhUTc3dWlyZ3p4Qkl2SFRQQUhvdHVVbUIwV0RSeWlFZ1NSckRZbjhoY2VPSlRsMVZsRSs0eStHRVFBQT09Cg==",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.0.0/AMES_BETA_DEMO_1.0.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU251b1g5QXVCMTVLTlgrcXJEbk1Fb3hjMkpuTE1GeStSb3hseVBlUkhaSll0VllzdUdxRmpkQyt3RkNTbVQyck95bXI0cGs3anBJK2pEZ3YxS3RRdmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzM0NjcyCWZpbGU6QU1FU19CRVRBX0RFTU9fMS4wLjFfeDY0LXNldHVwLmV4ZQpEV0dtM2lCbWg3RTBOWWp0R1VyaVBLMXU5VzJtUnR5ZVQ5TGtUVlRnNTN3K2JTRW40V0RuaklKejNpYXJwc3NaRWRocE5qRWZrb2kxM2FxNzN0U2VCZz09Cg==",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.0.1/AMES_BETA_DEMO_1.0.1_x64-setup.exe"
     }
   }
 }

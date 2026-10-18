@@ -1,11 +1,11 @@
 {
-  "version": "9.3.0",
-  "notes": "AMES v9.03.00 \u2014 Fonts you can use (top 50 built in, one-click install, download others, bring your own). Update bar up front. AMES Mail: simulated mail gone, Select All / Delete All, mail rules, Not Spam. Standby + screen saver (Ctrl + `). Fold/exit loop fixed.",
-  "pub_date": "2026-10-18T14:19:16Z",
+  "version": "9.3.1",
+  "notes": "AMES v9.03.01 \u2014 Workspace fixes: the session column (1-4, +) only shows when a Workspace is parked; EXIT from the Spreadsheet, Doc, Math, Information and Graphic Design Workspaces always goes back to the Core Plexus.",
+  "pub_date": "2026-10-18T18:16:56Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU21RMDFKbjMxbCtnS2JNZWw4YWVVVG1OQ25MU3BvZ1pKMmNJaE1uTVM2elFDbWxudTJrc21VTjNGWXl4RENsTy9CL3NLUHpZNnJOYjFSZVNIQ0RpOUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzMzMTU1CWZpbGU6QU1FU185LjMuMF94NjQtc2V0dXAuZXhlCjlsYUpOYWlwYjU4SVNYL3dNSjl4ZlVrOXNnMlpTSUduc05WSnpYYmJOOGZ4alE3S05adi9VODk1Z29SbmowL1lZaFNQRHBob0g5dDQ5WU1rY3JIZ0N3PT0K",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.3.0/AMES_9.3.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3AydU1jVGJKMlNyQzcyMUJOd25jaTlvNE9PRk1pa0lId2JNaDRJQzJVWllmME5aaWNqbWp0dzRjZ2Q3aHZnOWM2eU9GbEpESDVEUHBaNUNqbUwxNEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzQ3NDE1CWZpbGU6QU1FU185LjMuMV94NjQtc2V0dXAuZXhlCm5XZ3RlajNlSHErR1lPQ3VNSng3RXZ4elNRQ0xSUk9pUFVJYXlrNjllL2NraVpEbDJYdGlBMTJvUVN1cU5LNlZqaXRha0FrWDk2WmUxSUlTKzFGRUFnPT0K",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.3.1/AMES_9.3.1_x64-setup.exe"
     }
   }
 }

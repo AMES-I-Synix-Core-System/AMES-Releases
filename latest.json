@@ -1,11 +1,11 @@
 {
-  "version": "9.5.0",
-  "notes": "AMES v9.05.00 \u2014 Section boards on every Core Plexus Workspace button (Math, Arts, Spreadsheets, Docs, Home Database; placeholders for now). Sound: your boot and shutdown sounds, a speaker by the clock, Ctrl+Shift+U mute, Ctrl+Shift+A volume, mail sounds. EXIT everywhere, Interface test picture with keep/undo, adaptive tracers with an on/off switch.",
-  "pub_date": "2026-10-22T21:03:49Z",
+  "version": "9.5.1",
+  "notes": "AMES v9.05.01 \u2014 New look for the Workspace boards: categories in the middle, your item strip drops down on the left, the Park is a pull-down on the right. Star favourites, send anything in the Park to Global Parking. Global Parking now holds 100 items (warning at 90, PIN keeps an item).",
+  "pub_date": "2026-10-22T22:50:24Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3B1Y2dPWmxUcllDeWtwSUN6TkxxZDVFL25qMk1jT3Z2ZWZUemhSb25NTERhbzhFQlRoZmdySzhhd1VkaFFTR3FrdzRDUXBmRUd1QURGWEZMQ0dQbHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzAzMDI4CWZpbGU6QU1FU185LjUuMF94NjQtc2V0dXAuZXhlCnlOYzEyK0ZlMmZtNHRzK0JKd2FQdkdaWmlSQ3p6L0hCUnBNN2pMbWNNcjRqM3F1THRKdWxOeVVjMDRXZHpHQ1FaRENMQlNnMVdsc0F4WjMvVGFFdkN3PT0K",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.5.0/AMES_9.5.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU2t1SmhRRFFFTHRlaE5LazlqNWlpWCtraHRJdlRyNGhCSVFlT3RGVjFxTGx1cjg3Mkp1bjJBOWFmMXpQTy96YVIxS3NuczBiYkxramNFcTJhS3JlMmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzA5NDIzCWZpbGU6QU1FU185LjUuMV94NjQtc2V0dXAuZXhlCkpPZm8xZU9XMTVrQnVkVWEyWHcvdkJnZ0xlaFFPN25kK1N2anJTSnBhSTFwZVhpZ0ptY3M5UUc2YU1tcC9CWlBsbm9KV3prVG9pM3pLTXUyL3k0WUNRPT0K",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.5.1/AMES_9.5.1_x64-setup.exe"
     }
   }
 }

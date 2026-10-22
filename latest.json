@@ -1,11 +1,11 @@
 {
-  "version": "9.3.1",
-  "notes": "AMES v9.03.01 \u2014 Workspace fixes: the session column (1-4, +) only shows when a Workspace is parked; EXIT from the Spreadsheet, Doc, Math, Information and Graphic Design Workspaces always goes back to the Core Plexus.",
-  "pub_date": "2026-10-18T18:16:56Z",
+  "version": "9.4.0",
+  "notes": "AMES v9.04.00 \u2014 Global Parking (Ctrl + Shift + G), a calmer AMES Mail (one update notice at a time, right-click More info, Ctrl + Shift + M), REPORT A BUG from any screen (Ctrl + Shift + B), a bigger update bar, two screen-saver timers, exit warnings you can turn down, and My Profile in the SU door look.",
+  "pub_date": "2026-10-22T16:45:50Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3AydU1jVGJKMlNyQzcyMUJOd25jaTlvNE9PRk1pa0lId2JNaDRJQzJVWllmME5aaWNqbWp0dzRjZ2Q3aHZnOWM2eU9GbEpESDVEUHBaNUNqbUwxNEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzQ3NDE1CWZpbGU6QU1FU185LjMuMV94NjQtc2V0dXAuZXhlCm5XZ3RlajNlSHErR1lPQ3VNSng3RXZ4elNRQ0xSUk9pUFVJYXlrNjllL2NraVpEbDJYdGlBMTJvUVN1cU5LNlZqaXRha0FrWDk2WmUxSUlTKzFGRUFnPT0K",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.3.1/AMES_9.3.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU2dodnlROEVFT3MzYTgwQjBnNzhtTUtYWCt5QkZHU1dheHpRMStRcGZWNzdFOGNUQzRFU3VJMVE5aTRIenNtc1FScnZyUVJwdDBYOTFNYW9oZHpjZWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjg3NTQ5CWZpbGU6QU1FU185LjQuMF94NjQtc2V0dXAuZXhlCk9YM2lJL3hxcXBGWXBHOUxpbUJUcGZxdC9ybnJHTE5WYW1mVGp6RW1TOWNVeUxuK2g0ZDZzQWlUeklvSWYvYnV1ZU1Fd3lmc3I4SVlxcjdkd3lza0F3PT0K",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.4.0/AMES_9.4.0_x64-setup.exe"
     }
   }
 }

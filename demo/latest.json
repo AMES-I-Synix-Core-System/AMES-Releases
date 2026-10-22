@@ -1,11 +1,11 @@
 {
-  "version": "1.0.2",
-  "notes": "AMES BETA DEMO v1.00.02 \u2014 Global Parking (Ctrl + Shift + G), a calmer AMES Mail, REPORT A BUG from any screen (Ctrl + Shift + B), a bigger update bar, two screen-saver timers, exit warnings you can turn down, and My Profile in the SU door look.",
-  "pub_date": "2026-10-22T16:46:02Z",
+  "version": "1.0.3",
+  "notes": "AMES BETA DEMO v1.00.03 \u2014 Every Workspace button now opens its module board: categories in the middle, items on the left, a Park on the right. Star favourites and send them to Global Parking. Boot and shutdown sounds, a volume speaker by the clock (Ctrl+Shift+U mutes), EXIT everywhere, and a live test picture in Interface settings.",
+  "pub_date": "2026-10-22T22:54:50Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3ZjQUZqQmhIanRCZTRrOE5BSWQ3MFVvL1dMS2VxbUt2bWltcHBzK3RSUDFwTDNPVEwwYUxlUVFuOFdkdVh1WERlbklsMnhoQnJZRWlrOGxpd1VtQmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjg3NTYxCWZpbGU6QU1FU19CRVRBX0RFTU9fMS4wLjJfeDY0LXNldHVwLmV4ZQo5YjVXcnNTVnBVWGhWWS9rT0EvL054Sm5NVnRLUHNnSUpoNkRZNmlWbnJ4UlNyRWo0QnJNbXFzdXhZUUhxeG4zVVY1RDl3Y0NhYmkxUlJ2MEhkTkhCdz09Cg==",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.0.2/AMES_BETA_DEMO_1.0.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3Yzb3Z2ZFIzMi9WQXk4THU3K3YyeGtaR2I2WUJKckcwTHdxOVowV2FDd2xhdk05YWtORVVVa0x2SmhTd3Z1UVY4a1MrczY5Si9KYjN5dk5NYjlUVHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzA5Njg5CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4wLjNfeDY0LXNldHVwLmV4ZQprUlVXQmVRekJrTUt4TW1vR2ZNT0J2ZGdOYkZma0IrVUgxMHQxRlhsOGNPdkwzN2ZrcGN6Rk1WdE1yTHpOazN5REVkNnZzL2tlRk1tZ0JFbFY4UWNCQT09Cg==",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.0.3/AMES_BETA_DEMO_1.0.3_x64-setup.exe"
     }
   }
 }

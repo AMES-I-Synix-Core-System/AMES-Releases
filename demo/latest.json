@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
-  "notes": "AMES BETA DEMO v1.00.01 \u2014 Fonts you can use (top 50 built in, one-click install, bring your own). Update bar at the top. AMES Mail: Select All / Delete All, mail rules, Not Spam. Standby + screen saver (Ctrl + `). Fold/exit fix.",
-  "pub_date": "2026-10-18T14:44:33Z",
+  "version": "1.0.2",
+  "notes": "AMES BETA DEMO v1.00.02 \u2014 Global Parking (Ctrl + Shift + G), a calmer AMES Mail, REPORT A BUG from any screen (Ctrl + Shift + B), a bigger update bar, two screen-saver timers, exit warnings you can turn down, and My Profile in the SU door look.",
+  "pub_date": "2026-10-22T16:46:02Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU251b1g5QXVCMTVLTlgrcXJEbk1Fb3hjMkpuTE1GeStSb3hseVBlUkhaSll0VllzdUdxRmpkQyt3RkNTbVQyck95bXI0cGs3anBJK2pEZ3YxS3RRdmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzM0NjcyCWZpbGU6QU1FU19CRVRBX0RFTU9fMS4wLjFfeDY0LXNldHVwLmV4ZQpEV0dtM2lCbWg3RTBOWWp0R1VyaVBLMXU5VzJtUnR5ZVQ5TGtUVlRnNTN3K2JTRW40V0RuaklKejNpYXJwc3NaRWRocE5qRWZrb2kxM2FxNzN0U2VCZz09Cg==",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.0.1/AMES_BETA_DEMO_1.0.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3ZjQUZqQmhIanRCZTRrOE5BSWQ3MFVvL1dMS2VxbUt2bWltcHBzK3RSUDFwTDNPVEwwYUxlUVFuOFdkdVh1WERlbklsMnhoQnJZRWlrOGxpd1VtQmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjg3NTYxCWZpbGU6QU1FU19CRVRBX0RFTU9fMS4wLjJfeDY0LXNldHVwLmV4ZQo5YjVXcnNTVnBVWGhWWS9rT0EvL054Sm5NVnRLUHNnSUpoNkRZNmlWbnJ4UlNyRWo0QnJNbXFzdXhZUUhxeG4zVVY1RDl3Y0NhYmkxUlJ2MEhkTkhCdz09Cg==",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.0.2/AMES_BETA_DEMO_1.0.2_x64-setup.exe"
     }
   }
 }

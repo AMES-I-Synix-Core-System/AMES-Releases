@@ -1,11 +1,11 @@
 {
-  "version": "9.5.1",
-  "notes": "AMES v9.05.01 \u2014 New look for the Workspace boards: categories in the middle, your item strip drops down on the left, the Park is a pull-down on the right. Star favourites, send anything in the Park to Global Parking. Global Parking now holds 100 items (warning at 90, PIN keeps an item).",
-  "pub_date": "2026-10-22T22:50:24Z",
+  "version": "9.5.2",
+  "notes": "AMES v9.05.02 \u2014 Boards fix: the categories are on the left now and the middle stays empty until you pick one; then its items pop out. The Workspace title shows which module you are in.",
+  "pub_date": "2026-10-23T00:02:52Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU2t1SmhRRFFFTHRlaE5LazlqNWlpWCtraHRJdlRyNGhCSVFlT3RGVjFxTGx1cjg3Mkp1bjJBOWFmMXpQTy96YVIxS3NuczBiYkxramNFcTJhS3JlMmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzA5NDIzCWZpbGU6QU1FU185LjUuMV94NjQtc2V0dXAuZXhlCkpPZm8xZU9XMTVrQnVkVWEyWHcvdkJnZ0xlaFFPN25kK1N2anJTSnBhSTFwZVhpZ0ptY3M5UUc2YU1tcC9CWlBsbm9KV3prVG9pM3pLTXUyL3k0WUNRPT0K",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.5.1/AMES_9.5.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU2lqRGZGK25LT09nNzFnS3NjVGVRaWxRNU1iRGR1SnJRL2JXbDZrQURhbWhIR2VmUjNUYWFpVS9KbjI4L3NIYWxPeUZNNnFKSThad2xzbWszdk9zL0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzEzNzcxCWZpbGU6QU1FU185LjUuMl94NjQtc2V0dXAuZXhlCnVsa2Z1cHlGUzQwc3NyWUtTRlVEMXIvRlVrdFEzdXo3dEJYSWhoZXRBYWxBZ1pOZjd6Szg5aGt5YnIxUzBmS21yMVkyWms5RGlteFNiYm1UT2JtQ0F3PT0K",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.5.2/AMES_9.5.2_x64-setup.exe"
     }
   }
 }

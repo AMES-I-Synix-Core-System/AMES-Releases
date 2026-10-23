@@ -1,11 +1,11 @@
 {
-  "version": "1.0.5",
-  "notes": "AMES BETA DEMO v1.00.05 \u2014 The Workspace boards now use your theme colours, the category names are bigger and easier to read, and a button grows when you point at it.",
-  "pub_date": "2026-10-23T02:38:58Z",
+  "version": "1.0.6",
+  "notes": "AMES BETA DEMO v1.00.06 \u2014 Uninstall: AS \u203a Status \u203a Uninstall, the B-COS command UNINSTALL, or Start \u203a Uninstall AMES BETA DEMO. Bug reports can now include a screenshot: press Windows + Shift + S, then Ctrl + V in the report.",
+  "pub_date": "2026-10-23T04:36:25Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3ZncDBGMW5icG11MElrOXcxelZZRzdxMzZjRFhyRXc2QWtRQ0NJMjd2ZFltMWp0SDNZLzdYODh0QU5kQmNqbEp2QTVrd2R4WmdoVGhoQlFVVWtzVUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzIzMTM4CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4wLjVfeDY0LXNldHVwLmV4ZQpLWHFXaCtPWnlqUWZSamhFWlJsZDRxQS9NWXdyUE1QZXRpbjh6VWFVaTM1d1J4YVgyMy95S1IrcCt5YWx2dytQcXF0blZmbVc2NzhjdHZzbVFra2pCUT09Cg==",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.0.5/AMES_BETA_DEMO_1.0.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3JxeUYvQjJtWlVLWUhld0EzY3UvWHVqemJWcFYveHlDSFdBS20xeFprcC9Lbjk1cFRqdXR4REVQN0ZGY3MzQXUwU0lWOERzaFl4SlBoeSs5Y3IwVHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzMwMTg0CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4wLjZfeDY0LXNldHVwLmV4ZQpLQkMwVTBFL0IyZkgyeWhqNkJMZy8vYUVaZ2crVDVVelh0QzFjenVjOXNWQzFYZys3QU0vWGs2TGdvZnJRaDJ2TUc1VzFWYk8wUy9xUXJFQVZ0Yy9CUT09Cg==",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.0.6/AMES_BETA_DEMO_1.0.6_x64-setup.exe"
     }
   }
 }

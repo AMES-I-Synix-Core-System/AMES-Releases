@@ -1,11 +1,11 @@
 {
-  "version": "1.0.4",
-  "notes": "AMES BETA DEMO v1.00.04 \u2014 Boards fix: pick a category on the left and its items pop out in the middle. The Workspace title shows which module you are in.",
-  "pub_date": "2026-10-23T00:03:00Z",
+  "version": "1.0.5",
+  "notes": "AMES BETA DEMO v1.00.05 \u2014 The Workspace boards now use your theme colours, the category names are bigger and easier to read, and a button grows when you point at it.",
+  "pub_date": "2026-10-23T02:38:58Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3ZkbkJqRTdyZmRiVWowY3M2cmRCZ0JleDlhRHdvRTdmS3VCTFJ0YmRtUGJRT204aGRaMjhDTmtOMllyZ1NzdEdtT3lNWEVES2xldXJMWUgzYWV2OUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzEzNzgwCWZpbGU6QU1FU19CRVRBX0RFTU9fMS4wLjRfeDY0LXNldHVwLmV4ZQpCY1d4U0hYRGEydVpNMUZNSmd6Vk55QUhlSUhqWG1yNnkyL29oU0cwSHhsMWhjdmh0WWFtSEpaRjdvWHJudTBYNmM2RzBKSGVaaUlQYUxnVUFES2RDQT09Cg==",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.0.4/AMES_BETA_DEMO_1.0.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3ZncDBGMW5icG11MElrOXcxelZZRzdxMzZjRFhyRXc2QWtRQ0NJMjd2ZFltMWp0SDNZLzdYODh0QU5kQmNqbEp2QTVrd2R4WmdoVGhoQlFVVWtzVUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzIzMTM4CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4wLjVfeDY0LXNldHVwLmV4ZQpLWHFXaCtPWnlqUWZSamhFWlJsZDRxQS9NWXdyUE1QZXRpbjh6VWFVaTM1d1J4YVgyMy95S1IrcCt5YWx2dytQcXF0blZmbVc2NzhjdHZzbVFra2pCUT09Cg==",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.0.5/AMES_BETA_DEMO_1.0.5_x64-setup.exe"
     }
   }
 }

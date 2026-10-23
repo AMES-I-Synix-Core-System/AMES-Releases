@@ -1,11 +1,11 @@
 {
-  "version": "1.0.3",
-  "notes": "AMES BETA DEMO v1.00.03 \u2014 Every Workspace button now opens its module board: categories in the middle, items on the left, a Park on the right. Star favourites and send them to Global Parking. Boot and shutdown sounds, a volume speaker by the clock (Ctrl+Shift+U mutes), EXIT everywhere, and a live test picture in Interface settings.",
-  "pub_date": "2026-10-22T22:54:50Z",
+  "version": "1.0.4",
+  "notes": "AMES BETA DEMO v1.00.04 \u2014 Boards fix: pick a category on the left and its items pop out in the middle. The Workspace title shows which module you are in.",
+  "pub_date": "2026-10-23T00:03:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3Yzb3Z2ZFIzMi9WQXk4THU3K3YyeGtaR2I2WUJKckcwTHdxOVowV2FDd2xhdk05YWtORVVVa0x2SmhTd3Z1UVY4a1MrczY5Si9KYjN5dk5NYjlUVHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzA5Njg5CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4wLjNfeDY0LXNldHVwLmV4ZQprUlVXQmVRekJrTUt4TW1vR2ZNT0J2ZGdOYkZma0IrVUgxMHQxRlhsOGNPdkwzN2ZrcGN6Rk1WdE1yTHpOazN5REVkNnZzL2tlRk1tZ0JFbFY4UWNCQT09Cg==",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.0.3/AMES_BETA_DEMO_1.0.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3ZkbkJqRTdyZmRiVWowY3M2cmRCZ0JleDlhRHdvRTdmS3VCTFJ0YmRtUGJRT204aGRaMjhDTmtOMllyZ1NzdEdtT3lNWEVES2xldXJMWUgzYWV2OUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzEzNzgwCWZpbGU6QU1FU19CRVRBX0RFTU9fMS4wLjRfeDY0LXNldHVwLmV4ZQpCY1d4U0hYRGEydVpNMUZNSmd6Vk55QUhlSUhqWG1yNnkyL29oU0cwSHhsMWhjdmh0WWFtSEpaRjdvWHJudTBYNmM2RzBKSGVaaUlQYUxnVUFES2RDQT09Cg==",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.0.4/AMES_BETA_DEMO_1.0.4_x64-setup.exe"
     }
   }
 }

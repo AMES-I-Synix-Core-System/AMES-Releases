@@ -1,11 +1,11 @@
 {
-  "version": "9.5.3",
-  "notes": "AMES v9.05.03 \u2014 The Workspace boards now use your theme colours, the category names are bigger and easier to read, and a button grows when you point at it. The number and what's inside show in the tooltip.",
-  "pub_date": "2026-10-23T02:38:48Z",
+  "version": "9.6.0",
+  "notes": "AMES v9.06.00 \u2014 AMES Storage: AMES asks where to build your AMES folder (any drive), locks its folders so they need an administrator to delete, and the Workspace can now SAVE, SAVE AS and OPEN real files (Ctrl + S / Ctrl + O). Also: Uninstall in AS \u203a Status and screenshots in bug reports.",
+  "pub_date": "2026-10-23T17:01:11Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU2c0ZUE1Zzl1RklWTVlkTmJOVkVjNTNRcStseWNWSnhnVm1QY2hYaEJMUWtFWTk0YnRIZDdPdjB4Qm1EQjdOQ0ZxWnpQRDJ3WERmVUZGM3NvbExnb0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzIzMTI4CWZpbGU6QU1FU185LjUuM194NjQtc2V0dXAuZXhlCitUbVZ3cmFHYnZTUFEwSis2b2gxRE00d2RPcTVyeGVObldoZDJoWTJBcTQyc3FhSE0vUllFYS9FQ0VobTUyck1BMXJ3VTl5MUErdS9JazB4V01WUEJnPT0K",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.5.3/AMES_9.5.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU2haeGtlZkRFY0pabTVZNXIrOC9LSklBSWJKY0VNUEpRcjVUekZHcWEycVBHeHFXMnovajkvaWpaTUo2TEhSb0FwNWRIL3JmckUwa2NlOXpjZThiREFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzc0ODcwCWZpbGU6QU1FU185LjYuMF94NjQtc2V0dXAuZXhlCkdBSlJPV3l2YVJoMUgxSUxkczJqcmNKSFY5TENsTWMrRlpBc3M3a0tWQ1lIbkdBVVhVM1BrUEpEYUVCcW53Rzd4bHZXUHFyWWNPS1JFTVMvaUk2RUFRPT0K",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.6.0/AMES_9.6.0_x64-setup.exe"
     }
   }
 }

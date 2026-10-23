@@ -1,11 +1,11 @@
 {
-  "version": "9.5.2",
-  "notes": "AMES v9.05.02 \u2014 Boards fix: the categories are on the left now and the middle stays empty until you pick one; then its items pop out. The Workspace title shows which module you are in.",
-  "pub_date": "2026-10-23T00:02:52Z",
+  "version": "9.5.3",
+  "notes": "AMES v9.05.03 \u2014 The Workspace boards now use your theme colours, the category names are bigger and easier to read, and a button grows when you point at it. The number and what's inside show in the tooltip.",
+  "pub_date": "2026-10-23T02:38:48Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU2lqRGZGK25LT09nNzFnS3NjVGVRaWxRNU1iRGR1SnJRL2JXbDZrQURhbWhIR2VmUjNUYWFpVS9KbjI4L3NIYWxPeUZNNnFKSThad2xzbWszdk9zL0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzEzNzcxCWZpbGU6QU1FU185LjUuMl94NjQtc2V0dXAuZXhlCnVsa2Z1cHlGUzQwc3NyWUtTRlVEMXIvRlVrdFEzdXo3dEJYSWhoZXRBYWxBZ1pOZjd6Szg5aGt5YnIxUzBmS21yMVkyWms5RGlteFNiYm1UT2JtQ0F3PT0K",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.5.2/AMES_9.5.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU2c0ZUE1Zzl1RklWTVlkTmJOVkVjNTNRcStseWNWSnhnVm1QY2hYaEJMUWtFWTk0YnRIZDdPdjB4Qm1EQjdOQ0ZxWnpQRDJ3WERmVUZGM3NvbExnb0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzIzMTI4CWZpbGU6QU1FU185LjUuM194NjQtc2V0dXAuZXhlCitUbVZ3cmFHYnZTUFEwSis2b2gxRE00d2RPcTVyeGVObldoZDJoWTJBcTQyc3FhSE0vUllFYS9FQ0VobTUyck1BMXJ3VTl5MUErdS9JazB4V01WUEJnPT0K",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.5.3/AMES_9.5.3_x64-setup.exe"
     }
   }
 }

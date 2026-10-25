@@ -1,11 +1,11 @@
 {
-  "version": "1.0.6",
-  "notes": "AMES BETA DEMO v1.00.06 \u2014 Uninstall: AS \u203a Status \u203a Uninstall, the B-COS command UNINSTALL, or Start \u203a Uninstall AMES BETA DEMO. Bug reports can now include a screenshot: press Windows + Shift + S, then Ctrl + V in the report.",
-  "pub_date": "2026-10-23T04:36:25Z",
+  "version": "1.0.7",
+  "notes": "AMES BETA DEMO v1.00.07 \u2014 new purple and gold DEMO icon; AMES Storage: choose where your AMES folder lives, and SAVE / SAVE AS / OPEN real files in the Workspace (Ctrl + S / Ctrl + O).",
+  "pub_date": "2026-10-25T01:30:09Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3JxeUYvQjJtWlVLWUhld0EzY3UvWHVqemJWcFYveHlDSFdBS20xeFprcC9Lbjk1cFRqdXR4REVQN0ZGY3MzQXUwU0lWOERzaFl4SlBoeSs5Y3IwVHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzMwMTg0CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4wLjZfeDY0LXNldHVwLmV4ZQpLQkMwVTBFL0IyZkgyeWhqNkJMZy8vYUVaZ2crVDVVelh0QzFjenVjOXNWQzFYZys3QU0vWGs2TGdvZnJRaDJ2TUc1VzFWYk8wUy9xUXJFQVZ0Yy9CUT09Cg==",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.0.6/AMES_BETA_DEMO_1.0.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3ZSQ0tLTk5YUUptbWtBSXMwbEk3OXF0T0dKbFNZZGhzM0MxT3RSaWd2ZEc1ZFR1VkhqYitiMFY5UkIzN2ZreGh4MWVMSHEwYWo5WGZ6VEYrUGp4QXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODkxODA5CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4wLjdfeDY0LXNldHVwLmV4ZQo0elhoZWxqemRiR1FaT1A1OGFST0RzU2ZzQVIvc3pNclJMeE0zNkpUREFIcEgrc2ZkRzRheUo5UzM2RGxaN3I3MXoreEdUV0lmLzFtWlJneDFaa2pBZz09Cg==",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.0.7/AMES_BETA_DEMO_1.0.7_x64-setup.exe"
     }
   }
 }

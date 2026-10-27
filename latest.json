@@ -1,11 +1,11 @@
 {
-  "version": "9.6.0",
-  "notes": "AMES v9.06.00 \u2014 AMES Storage: AMES asks where to build your AMES folder (any drive), locks its folders so they need an administrator to delete, and the Workspace can now SAVE, SAVE AS and OPEN real files (Ctrl + S / Ctrl + O). Also: Uninstall in AS \u203a Status and screenshots in bug reports.",
-  "pub_date": "2026-10-23T17:01:11Z",
+  "version": "9.6.1",
+  "notes": "v9.06.01: first tester fixes \u2014 Backspace works in Mail and Docs again, EXIT / FOLD / SEMA glow gold, read vs unread mail, Help Level and What is this? in SU \u203a LOOK, AMES Basic font 1.301.",
+  "pub_date": "2026-10-27T04:29:58Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU2haeGtlZkRFY0pabTVZNXIrOC9LSklBSWJKY0VNUEpRcjVUekZHcWEycVBHeHFXMnovajkvaWpaTUo2TEhSb0FwNWRIL3JmckUwa2NlOXpjZThiREFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzc0ODcwCWZpbGU6QU1FU185LjYuMF94NjQtc2V0dXAuZXhlCkdBSlJPV3l2YVJoMUgxSUxkczJqcmNKSFY5TENsTWMrRlpBc3M3a0tWQ1lIbkdBVVhVM1BrUEpEYUVCcW53Rzd4bHZXUHFyWWNPS1JFTVMvaUk2RUFRPT0K",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.6.0/AMES_9.6.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU252RDNUTGp3ZEFzaGRSbEQ3YkpnMVR2bzVKRDBnUnBKVG9OdnhsMk96Szc4ZGZTQm1Zc2ZHbGdLWEFBcWR3Wm1QRXUyNWpoWjNTTG10ODhhREtjQnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDc1Mzk4CWZpbGU6QU1FU185LjYuMV94NjQtc2V0dXAuZXhlCitMRXNlaDRnZmpEeG9HMC9xWWtLaXFsQjBZYlREN0phcWhFaGNnb1VXWXNGOXB1b0x6dW51NUVOL2FGQ2UzRkR2ZWVDVjRhQk5CZVhYLzFOWm9GU0FRPT0K",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.6.1/AMES_9.6.1_x64-setup.exe"
     }
   }
 }

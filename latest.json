@@ -1,11 +1,11 @@
 {
-  "version": "9.6.2",
-  "notes": "AMES v9.06.02 \u2014 EXIT / FOLD / SEMA always glow (switch in SU \u203a Interface), AMES words everywhere (SEMA, Purge, Compactor, Discarded), What is this? answers, Workspace EXIT steps 1 of 2 / 2 of 2, Acknowledgments, logo beacon and Workspace motion, tracer speed, new AMES folder default, auto-fractions.",
-  "pub_date": "2026-10-29T16:56:41Z",
+  "version": "9.7.0",
+  "notes": "AMES v9.07.00 \u2014 Safe updates (update-only shortcut, never updates while work is open, checks when AMES comes online), AMES in Windows (Start-menu AMES folder, tray icon, jump list, .ames files, Safe Mode, Send to AMES, notifications, start with Windows, keep-your-files uninstall), first-run tour, Help Level at the start and the How-To Library.",
+  "pub_date": "2026-10-29T18:00:51Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU2hVUklndENFd0tzN1VIeUhGK1VYSE5WNHpxVysrNXJDTjJQOHh3bkZ6ay9iSkRoWDZKbWhGVUs3aDk1SUdDb2tmcGtwWVh0UWExcXpTZ2Z1cXFBYWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjkzMDAwCWZpbGU6QU1FU185LjYuMl94NjQtc2V0dXAuZXhlCkYreGNDZ1FIZGh4emltaGdMazliWjNoVmVucXp4WTg0UGNYTXduNHpxTkF4SU9JWldQZCtKMDB0NC9DSHowWHhrSXhiY2J5N0NLRHNnNWZjQUpIUEFRPT0K",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.6.2/AMES_9.6.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU2xDeHluMmtLL1QzUGlpRXBJdTNMTU5vemFycmZEQkFkMnN3TW1PeFVrMXc3SlhRNlhYTno3S3paZ1FselllOXNVTHZteWdwTm16TENUdTB0Y0d5VHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjk2ODUxCWZpbGU6QU1FU185LjcuMF94NjQtc2V0dXAuZXhlCjRVNFE4UkJ5TUtTUWtwVldvVmNhVTZkcDBqOW92MlVibDZRN3JyaE1iNUdEWG1wbUlRcVdyMzl6VHI4bzRQTDJoeTlqZG5FNWYrTTBDMENvN2dxSENBPT0K",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.7.0/AMES_9.7.0_x64-setup.exe"
     }
   }
 }

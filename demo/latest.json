@@ -1,11 +1,11 @@
 {
-  "version": "1.0.15",
-  "notes": "AMES BETA DEMO v1.00.15 \u2014 same as AMES v9.09.03 (Our Companies).",
-  "pub_date": "2026-10-29T21:52:43Z",
+  "version": "1.0.16",
+  "notes": "AMES BETA DEMO v1.00.16 \u2014 same as AMES v9.09.04.",
+  "pub_date": "2026-10-29T23:03:48Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU283U3YvdGhsQTgzL2pnRndvSkQyUW9DV1E4WCttU08vdS9nRUFJbmlra2h3a2JSdkZRUmpqTjMzVzkzU1UwWkxkQmxqRnVYYk4vcHhocDFFOHhuU3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzEwNzYzCWZpbGU6QU1FU19CRVRBX0RFTU9fMS4wLjE1X3g2NC1zZXR1cC5leGUKbi9aUDZ5YUJ3dGZWK1Y0ZWRacVdNWWZYTXhzU1JKYnRVQ201dmo4RFRnTnpoMktjM1NjaXZMK2VOaXIvWit1UlZUMWtnMDV3c1dzc0g1V0x2ME5CQ2c9PQo=",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.0.15/AMES_BETA_DEMO_1.0.15_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU21XN25sdVJ0SUI0MTZYL2JIaEZRNlFwNEpoSGRhKzZNVGcwTksrcEgrWTZ3dFNydnloOGk0dHE5MVlIYmEwelRwT3FMUjB3TlVFcjJWU0FKUG1xK1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzE1MDI4CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4wLjE2X3g2NC1zZXR1cC5leGUKRnVzRXFkZ1pLNlhCRlpIS1Vod2d5R3ZmOTFFMkg5cFhqZDFDZlFZVFY4YmJ6Y05MeENxYW9BOWhyamlPMDI5K3JxWVk1SG54VEpPSWl4L09hd09vQkE9PQo=",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.0.16/AMES_BETA_DEMO_1.0.16_x64-setup.exe"
     }
   }
 }

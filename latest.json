@@ -1,11 +1,11 @@
 {
-  "version": "9.7.0",
-  "notes": "AMES v9.07.00 \u2014 Safe updates (update-only shortcut, never updates while work is open, checks when AMES comes online), AMES in Windows (Start-menu AMES folder, tray icon, jump list, .ames files, Safe Mode, Send to AMES, notifications, start with Windows, keep-your-files uninstall), first-run tour, Help Level at the start and the How-To Library.",
-  "pub_date": "2026-10-29T18:00:51Z",
+  "version": "9.8.0",
+  "notes": "AMES v9.08.00 \u2014 Line up & Wait, full version: 60 spots in 3 pages, ghost outlines that light up when you FOLD, waiting sessions, and the Workspace button (SYSTEM box 2, slot B) that grows the panel out over the left side.",
+  "pub_date": "2026-10-29T18:14:32Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU2xDeHluMmtLL1QzUGlpRXBJdTNMTU5vemFycmZEQkFkMnN3TW1PeFVrMXc3SlhRNlhYTno3S3paZ1FselllOXNVTHZteWdwTm16TENUdTB0Y0d5VHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjk2ODUxCWZpbGU6QU1FU185LjcuMF94NjQtc2V0dXAuZXhlCjRVNFE4UkJ5TUtTUWtwVldvVmNhVTZkcDBqOW92MlVibDZRN3JyaE1iNUdEWG1wbUlRcVdyMzl6VHI4bzRQTDJoeTlqZG5FNWYrTTBDMENvN2dxSENBPT0K",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.7.0/AMES_9.7.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU21UQ0Nkang1SkwwY0oxeDdtTTEzdGxJNmpJTEVZTlVxcndFOXQ1S2ZDNS9jRzJYRm1ZOGwyNnc0TzdNNEhzd3Z5bmxxWHdTL3J5NE5RRUhrb1cxZFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjk3NjcxCWZpbGU6QU1FU185LjguMF94NjQtc2V0dXAuZXhlClNQVGFJbHJLcjcxUjFTMGd6aDFvc3Flc294eEF6OXo3WVpoTEpPQTRubVZnWW13d0xlRFYwT2dTdkZ1amhwQnRBYndsdkRTRXY1S2xiK1BIbnp0aURBPT0K",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.8.0/AMES_9.8.0_x64-setup.exe"
     }
   }
 }

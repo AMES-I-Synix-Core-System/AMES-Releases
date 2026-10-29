@@ -1,11 +1,11 @@
 {
-  "version": "9.9.1",
-  "notes": "AMES v9.09.01 \u2014 hotfix: AMES would not open. Start-up made safe again; a start-up log now records why AMES closes.",
-  "pub_date": "2026-10-29T19:22:15Z",
+  "version": "9.9.2",
+  "notes": "AMES v9.09.02 \u2014 Last Known Good: AMES keeps a copy of the last version that worked. Safe Mode starts it, and if a new AMES fails to start twice, AMES opens it by itself.",
+  "pub_date": "2026-10-29T19:48:21Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU21QaFNLQlluZHd0ZEQxU2FlTy96NEsrMjhPL0JWdVF1YkxySk95SUo0Ukd6UWtIUlhYTkNuY1NkRWR6MjQyRkZrOFJaNWRrbWdhZ1lJbmZKMUtneVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzAxNzM0CWZpbGU6QU1FU185LjkuMV94NjQtc2V0dXAuZXhlCkQ5ZXh6Yk5jNFd4ZGpSdVp3VnIvVjJBckd6S05ZSjc0aFhBaGcrVlNzOUNOSVByU0VCd0JNSUpoZC9jcjZNVVB3TmVtWlVveVV0SEpMT1E2QWRlRUFRPT0K",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.9.1/AMES_9.9.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU28zdE5lNktxNjFBSjh1UlRRN1poWUtLUmVOM2NnYXYxMVJaUlpVZmFSRHEvTmFMSVdqZHNkblBnRnlDbGxkVlUxY0I2TGJaeWg0MG95QlhJekYvQXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzAzMzAwCWZpbGU6QU1FU185LjkuMl94NjQtc2V0dXAuZXhlCit1OVpaYUlwQ0RzRXV2TUovSlZROTFIcVNzQzA5Qm1ZNURrdmxLVkczTTh6MHhmM0NuQnJtakF1b2pjZVpYOW4wT2Mxc2VIZTc5UzJZQ3B0ejVIQkFBPT0K",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.9.2/AMES_9.9.2_x64-setup.exe"
     }
   }
 }

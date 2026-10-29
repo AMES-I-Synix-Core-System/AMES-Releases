@@ -1,11 +1,11 @@
 {
-  "version": "9.9.3",
-  "notes": "AMES v9.09.03 \u2014 Our Companies: meet Midnight Sun Holdings, Synix Core Systems and VHMP in AS \u203a History.",
-  "pub_date": "2026-10-29T21:52:33Z",
+  "version": "9.9.4",
+  "notes": "AMES v9.09.04 \u2014 One EXIT over the Workspace; Line up & Wait sorts itself, drag to move, EXIT a held one; AMES GEAR joins Our Companies.",
+  "pub_date": "2026-10-29T23:03:38Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3BKd2NpOWhVMml4bDB1ZE4zSVN5TDV2YmtBSkMrdFNnbTdhUWZSaVIzWWVrY3U0S0NzYUkveWtuelloRmRWcE16a1M5TlNkSmN6WWtyT3FkYWttU3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzEwNzUyCWZpbGU6QU1FU185LjkuM194NjQtc2V0dXAuZXhlCnZ1Vk9KV3ZsQUhBMkRteUZFdThSWklSNm8zNzVlU0FQZ1lpZS9rdHdaNWFKTUcrcWJlK2R1UWM3QzFYOG9ycjBESjluMGVWZ24zWmZiNFQ1NnZQREJRPT0K",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.9.3/AMES_9.9.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3VDaXpHVUZwSVZaamtKU2MyUCs3MFJNOE9NMGw1WXdDV2ptZ1N4SU90OGlvU0JEeFA3NkN4Qk4rZk0xbkpZeml4TFl0Uk5rZTZNem9OVWVNek8vNUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzE1MDE4CWZpbGU6QU1FU185LjkuNF94NjQtc2V0dXAuZXhlClo0NklqZEUzVEl4akR1SE9iK3I1Z2VFSDNvMTJMK2VoQkdlVTBVT2czT3Nwb1ZiS3drSG1nUThFZEtJOU50amtGQW5TM0QyY2kwc3p3NzNtOHZ4cERRPT0K",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.9.4/AMES_9.9.4_x64-setup.exe"
     }
   }
 }

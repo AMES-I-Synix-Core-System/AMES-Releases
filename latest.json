@@ -1,11 +1,11 @@
 {
-  "version": "9.9.0",
-  "notes": "AMES v9.09.00 \u2014 AMES Storage phase 2/3: your AMES data also lives in your AMES folder, daily backups, Move to a new PC (export / bring back), Move my AMES folder (checked file by file); the live beta folder (AMES\\Beta) with a safe clean-up when beta ends.",
-  "pub_date": "2026-10-29T18:30:10Z",
+  "version": "9.9.1",
+  "notes": "AMES v9.09.01 \u2014 hotfix: AMES would not open. Start-up made safe again; a start-up log now records why AMES closes.",
+  "pub_date": "2026-10-29T19:22:15Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3ZmWVRFN0djSU94akdEekMvN2RjRGN6V2w4Z2ZGT1dMTDFuK1NrSCtaeE51NDdXV3lZcTBEbjlCY0lwOVluY1V6UWpyV3BxZFE4TUF6dlNUcFpUNlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjk4NjEwCWZpbGU6QU1FU185LjkuMF94NjQtc2V0dXAuZXhlClhJUVg3ZDJ1MmphbjVRemZtMmlFWXRqT3NyM0RneHdEdU8zcEN5eGRTTFNHNU1PZ2VWTnNVUDhwREdqNXlvdktYd2E5VDlNcTlrSHRZbHo3YjE1aUJRPT0K",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.9.0/AMES_9.9.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU21QaFNLQlluZHd0ZEQxU2FlTy96NEsrMjhPL0JWdVF1YkxySk95SUo0Ukd6UWtIUlhYTkNuY1NkRWR6MjQyRkZrOFJaNWRrbWdhZ1lJbmZKMUtneVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzAxNzM0CWZpbGU6QU1FU185LjkuMV94NjQtc2V0dXAuZXhlCkQ5ZXh6Yk5jNFd4ZGpSdVp3VnIvVjJBckd6S05ZSjc0aFhBaGcrVlNzOUNOSVByU0VCd0JNSUpoZC9jcjZNVVB3TmVtWlVveVV0SEpMT1E2QWRlRUFRPT0K",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.9.1/AMES_9.9.1_x64-setup.exe"
     }
   }
 }

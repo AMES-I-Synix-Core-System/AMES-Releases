@@ -1,11 +1,11 @@
 {
-  "version": "1.0.17",
-  "notes": "AMES BETA DEMO v1.00.17: the TESN hover is docked under the TESN line; the AMES Store and Our Companies are easy to find (try typing store in COS); the BETA DEMO badge sits bottom centre and is more see-through.",
-  "pub_date": "2026-10-30T01:21:01Z",
+  "version": "1.0.18",
+  "notes": "AMES BETA DEMO v1.00.18: open any document or spreadsheet \u2014 Word, Excel, OpenDocument, RTF, CSV and more \u2014 and save back as Word or Excel. OPEN A FILE and SAVE now sit side by side on the rail under WORKSPACE. Drag a file onto AMES to open it.",
+  "pub_date": "2026-10-30T02:42:08Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU25rc29wMktwUG5oNEt6TEhIWUh5MWFTYkVuRzl1WHVSS25qZUQrZUxYVEJXT2hYYXEyLzRWUGVZclhWa3RPcDhjc2I0dTBxNTJZdnlCcENzTnVUS0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzIzMjYwCWZpbGU6QU1FU19CRVRBX0RFTU9fMS4wLjE3X3g2NC1zZXR1cC5leGUKaDNmWUtDWk5CYkdUKzRZSkZhcDBqQUU4Wko2YVhlMWd6NGNYeC84cERoc0hGNElQZG5YZjdzTEkxb0ZCYVBJbERaNUFqS2RhYXVsRGNtZ1dyRWdZQmc9PQo=",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.0.17/AMES_BETA_DEMO_1.0.17_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU2pCWmFkQWttQUZicXpEd244bk4wOThIZXZGNWt2Ny9Bc2Z2RHpPM2NQSk04OHAxWkRjUVJuZ3RLcWpmS0dadUpiR1ViQXZQQVBRdzNaQkpjT0VqcXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzI4MTI4CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4wLjE4X3g2NC1zZXR1cC5leGUKdXREeXFHMXZNZlFBL0c1c01lT3cxL2F1NXQ4UHpRSFJUV0JTRyswZDIyTEdZUytZMXNuNUxNbnhYVmpUZXVBV2F2M3ZZVDVMMDRXV3ZPc0lLZnQvQXc9PQo=",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.0.18/AMES_BETA_DEMO_1.0.18_x64-setup.exe"
     }
   }
 }

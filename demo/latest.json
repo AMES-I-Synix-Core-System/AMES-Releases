@@ -1,11 +1,11 @@
 {
-  "version": "1.0.16",
-  "notes": "AMES BETA DEMO v1.00.16 \u2014 same as AMES v9.09.04.",
-  "pub_date": "2026-10-29T23:03:48Z",
+  "version": "1.0.17",
+  "notes": "AMES BETA DEMO v1.00.17: the TESN hover is docked under the TESN line; the AMES Store and Our Companies are easy to find (try typing store in COS); the BETA DEMO badge sits bottom centre and is more see-through.",
+  "pub_date": "2026-10-30T01:21:01Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU21XN25sdVJ0SUI0MTZYL2JIaEZRNlFwNEpoSGRhKzZNVGcwTksrcEgrWTZ3dFNydnloOGk0dHE5MVlIYmEwelRwT3FMUjB3TlVFcjJWU0FKUG1xK1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzE1MDI4CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4wLjE2X3g2NC1zZXR1cC5leGUKRnVzRXFkZ1pLNlhCRlpIS1Vod2d5R3ZmOTFFMkg5cFhqZDFDZlFZVFY4YmJ6Y05MeENxYW9BOWhyamlPMDI5K3JxWVk1SG54VEpPSWl4L09hd09vQkE9PQo=",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.0.16/AMES_BETA_DEMO_1.0.16_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU25rc29wMktwUG5oNEt6TEhIWUh5MWFTYkVuRzl1WHVSS25qZUQrZUxYVEJXT2hYYXEyLzRWUGVZclhWa3RPcDhjc2I0dTBxNTJZdnlCcENzTnVUS0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzIzMjYwCWZpbGU6QU1FU19CRVRBX0RFTU9fMS4wLjE3X3g2NC1zZXR1cC5leGUKaDNmWUtDWk5CYkdUKzRZSkZhcDBqQUU4Wko2YVhlMWd6NGNYeC84cERoc0hGNElQZG5YZjdzTEkxb0ZCYVBJbERaNUFqS2RhYXVsRGNtZ1dyRWdZQmc9PQo=",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.0.17/AMES_BETA_DEMO_1.0.17_x64-setup.exe"
     }
   }
 }

@@ -1,11 +1,11 @@
 {
-  "version": "9.9.4",
-  "notes": "AMES v9.09.04 \u2014 One EXIT over the Workspace; Line up & Wait sorts itself, drag to move, EXIT a held one; AMES GEAR joins Our Companies.",
-  "pub_date": "2026-10-29T23:03:38Z",
+  "version": "9.10.0",
+  "notes": "AMES v9.10.00: the TESN 'in plain words' box is docked under the TESN line (no more chasing the mouse); the AMES Store and Our Companies can be found from AS, SU, About, the Core Plexus line, the How-To Library and COS (try: where can I buy AMES).",
+  "pub_date": "2026-10-30T01:20:48Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3VDaXpHVUZwSVZaamtKU2MyUCs3MFJNOE9NMGw1WXdDV2ptZ1N4SU90OGlvU0JEeFA3NkN4Qk4rZk0xbkpZeml4TFl0Uk5rZTZNem9OVWVNek8vNUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzE1MDE4CWZpbGU6QU1FU185LjkuNF94NjQtc2V0dXAuZXhlClo0NklqZEUzVEl4akR1SE9iK3I1Z2VFSDNvMTJMK2VoQkdlVTBVT2czT3Nwb1ZiS3drSG1nUThFZEtJOU50amtGQW5TM0QyY2kwc3p3NzNtOHZ4cERRPT0K",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.9.4/AMES_9.9.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU2loYTNXbmtkT080cm5zL1phQTl3QjNQTEN4WFZhajJid1duUXJvR3VOdWsvYmdaL25sU2VNWjcwamVXOWM4RmkvV3dBV3J6Q05DVmR5SFpWVzZ3d0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzIzMjQ3CWZpbGU6QU1FU185LjEwLjBfeDY0LXNldHVwLmV4ZQpJNHhONmh6SmJaZWEvd0N3aEpmVjVmR3ZrejhsMFA3OW1lVVFyRmhUK1NyRWpaYm4zK0Y1Qysvc0k3Vk1xRFVOZjI5eFhwOXlsN3hOYkU2WWJyYm9EZz09Cg==",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.10.0/AMES_9.10.0_x64-setup.exe"
     }
   }
 }

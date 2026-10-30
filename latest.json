@@ -1,11 +1,11 @@
 {
-  "version": "9.10.1",
-  "notes": "AMES v9.10.01: AMES opens any document and any spreadsheet \u2014 Word, Excel, OpenDocument, RTF, CSV and more \u2014 and saves back as Word (.docx) or Excel (.xlsx). New on the rail under WORKSPACE: OPEN A FILE and SAVE side by side. Drag a file onto AMES or use Send to \u203a AMES.",
-  "pub_date": "2026-10-30T02:41:52Z",
+  "version": "9.10.2",
+  "notes": "AMES v9.10.02: two fixes. The 'Bring back your AMES?' box no longer loops after an update. Shut Down and EXIT AMES now really close AMES \u2014 a short countdown with EXIT AMES NOW in the middle.",
+  "pub_date": "2026-10-30T04:42:25Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3RqVEttd2FKUktVQ3p6bUtDa1JyZ2NidVlHQzFMZmdhK3Qzd0JQV3VFN3BnNThpY25iYm9hWkVLT2JBT2NwRnNDMGZ1aUlVWW9OSGJpMjVpd0JrendJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzI4MTExCWZpbGU6QU1FU185LjEwLjFfeDY0LXNldHVwLmV4ZQpIL1o4K09naDBQSVJYTHg0MU9nNHYxUUNKT09BMEdYWXVwcEx2Y2k0TERUR3dNUTFyeDlFVkh3K0xCYzlkamtqa1c3M2xrM1htK280VW5JVDBTVUlDdz09Cg==",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.10.1/AMES_9.10.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU2k0dWNTb3E5bmhkTEdCSURVckN5RE5xaWlzdGk1eTN1aW1nOTJxK1JzZUlZQ2VxUXpvbURqTFhhRzZhaFNjcVlZaVJRV1UxTDIrdHo5WlIydWsxdFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzM1MzQzCWZpbGU6QU1FU185LjEwLjJfeDY0LXNldHVwLmV4ZQpXc0luK1N5QTlTRnpJRUFiOEo5TU5Ea1c0YkdKQXFQMWxsRnJVTHRTY2ZUOTIvZm5qQzcyMmdhcVUvK1JKQzlscjhHRmdmZUdXVzJaL2hsQmROK0ZDZz09Cg==",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.10.2/AMES_9.10.2_x64-setup.exe"
     }
   }
 }

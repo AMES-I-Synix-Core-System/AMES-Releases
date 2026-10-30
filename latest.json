@@ -1,11 +1,11 @@
 {
-  "version": "9.10.0",
-  "notes": "AMES v9.10.00: the TESN 'in plain words' box is docked under the TESN line (no more chasing the mouse); the AMES Store and Our Companies can be found from AS, SU, About, the Core Plexus line, the How-To Library and COS (try: where can I buy AMES).",
-  "pub_date": "2026-10-30T01:20:48Z",
+  "version": "9.10.1",
+  "notes": "AMES v9.10.01: AMES opens any document and any spreadsheet \u2014 Word, Excel, OpenDocument, RTF, CSV and more \u2014 and saves back as Word (.docx) or Excel (.xlsx). New on the rail under WORKSPACE: OPEN A FILE and SAVE side by side. Drag a file onto AMES or use Send to \u203a AMES.",
+  "pub_date": "2026-10-30T02:41:52Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU2loYTNXbmtkT080cm5zL1phQTl3QjNQTEN4WFZhajJid1duUXJvR3VOdWsvYmdaL25sU2VNWjcwamVXOWM4RmkvV3dBV3J6Q05DVmR5SFpWVzZ3d0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzIzMjQ3CWZpbGU6QU1FU185LjEwLjBfeDY0LXNldHVwLmV4ZQpJNHhONmh6SmJaZWEvd0N3aEpmVjVmR3ZrejhsMFA3OW1lVVFyRmhUK1NyRWpaYm4zK0Y1Qysvc0k3Vk1xRFVOZjI5eFhwOXlsN3hOYkU2WWJyYm9EZz09Cg==",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.10.0/AMES_9.10.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3RqVEttd2FKUktVQ3p6bUtDa1JyZ2NidVlHQzFMZmdhK3Qzd0JQV3VFN3BnNThpY25iYm9hWkVLT2JBT2NwRnNDMGZ1aUlVWW9OSGJpMjVpd0JrendJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzI4MTExCWZpbGU6QU1FU185LjEwLjFfeDY0LXNldHVwLmV4ZQpIL1o4K09naDBQSVJYTHg0MU9nNHYxUUNKT09BMEdYWXVwcEx2Y2k0TERUR3dNUTFyeDlFVkh3K0xCYzlkamtqa1c3M2xrM1htK280VW5JVDBTVUlDdz09Cg==",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.10.1/AMES_9.10.1_x64-setup.exe"
     }
   }
 }

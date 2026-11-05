@@ -1,11 +1,11 @@
 {
-  "version": "1.0.20",
-  "notes": "AMES BETA DEMO v1.00.20: Line Up & Wait batch close with Nova save stars, SEMA and Cancel back to the door page, one running copy. This BETA DEMO ends on December 31, 2027.",
-  "pub_date": "2026-11-05T17:37:32Z",
+  "version": "1.1.0",
+  "notes": "AMES BETA DEMO v1.01.00: a real BETA DEMO key \u2014 after this update AMES asks once for the key the AMES team sent you (one key, one computer). Fresh start: what the older demo kept is cleared. Based on AMES v9.10.04. This BETA DEMO ends on December 31, 2027.",
+  "pub_date": "2026-11-05T23:51:26Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3BwaExIR3FOd1FLL3N1SlNRMVROU1ZFNEpnQUhLa2hsSFhVU1J5R0pWU1BhbFh5cnJhbXJBd2pHMFk4eEFKQjF6SFZhRGg1K2haT1JlUWNkdGM3WmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTAwMjUxCWZpbGU6QU1FU19CRVRBX0RFTU9fMS4wLjIwX3g2NC1zZXR1cC5leGUKa1FMVFNrMkwrQTlEN3c1cnM0N25EOE9xMnpyQTdPcEZkT25MS3NpOUNKazk4QVh2MkZrZW9Gd0duTXpoT0RaSjFzQjBiYXhuNnpmb2swTnR1cVVsQ3c9PQo=",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.0.20/AMES_BETA_DEMO_1.0.20_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3B2TXBEQVhWYmpDdVN0Ynhlcnp6VDV3U1dncktGK3hlWVJpRDJxanJSd3dvYW50eFphbWlpbEFsWnlmc1NvYU55M2w0bzVhWEthQ1ZmbWNRQUVSb1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTIyNjg1CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4xLjBfeDY0LXNldHVwLmV4ZQpFRGswQWlsalNJTjc4eHhoZVdNVWc1bElSQVdaTDFIRy9iQWJGbkVZcHdtOFkwUXo1bGZnNFRRWkhmQ3RoTEg0N1E2WjJweVlCMGN5Z1FlVnVBZUZDZz09Cg==",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.1.0/AMES_BETA_DEMO_1.1.0_x64-setup.exe"
     }
   }
 }

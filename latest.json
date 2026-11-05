@@ -1,11 +1,11 @@
 {
-  "version": "9.10.2",
-  "notes": "AMES v9.10.02: two fixes. The 'Bring back your AMES?' box no longer loops after an update. Shut Down and EXIT AMES now really close AMES \u2014 a short countdown with EXIT AMES NOW in the middle.",
-  "pub_date": "2026-10-30T04:42:25Z",
+  "version": "9.10.3",
+  "notes": "AMES v9.10.03: Line Up & Wait batch close (tick boxes, KEEP ONLY THESE, one question in the panel, UNDO) with Nova save stars (red = unsaved, green = saved); SEMA and Cancel go back to the door page you came from; SAVE / SAVE AS / OPEN in the Workspace top bar; one running copy of AMES; the version shown now matches the build.",
+  "pub_date": "2026-11-05T17:37:14Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU2k0dWNTb3E5bmhkTEdCSURVckN5RE5xaWlzdGk1eTN1aW1nOTJxK1JzZUlZQ2VxUXpvbURqTFhhRzZhaFNjcVlZaVJRV1UxTDIrdHo5WlIydWsxdFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzM1MzQzCWZpbGU6QU1FU185LjEwLjJfeDY0LXNldHVwLmV4ZQpXc0luK1N5QTlTRnpJRUFiOEo5TU5Ea1c0YkdKQXFQMWxsRnJVTHRTY2ZUOTIvZm5qQzcyMmdhcVUvK1JKQzlscjhHRmdmZUdXVzJaL2hsQmROK0ZDZz09Cg==",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.10.2/AMES_9.10.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3BRTXdqOS9sUmY2SGNXYnZJR1ZKK2lSVVd5RFQ5elRsTjhPSnNhd2dJUmZ3cHVzaW9xKzhrV2RuaU4xMWQxZWNCRVNTaE1yc2l5eks4R0VXQzREakFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTAwMjMyCWZpbGU6QU1FU185LjEwLjNfeDY0LXNldHVwLmV4ZQpPL1RZdGoyRjdzRzZobHA5QzY2MHd4eFYwSnJuRU5BVld6THRhY2ZWWFo0M1piZ2xoU3loYm1id1JrdlBWbGlCTmIyTXh2NVRzb2pSWGxHL00zYklEQT09Cg==",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.10.3/AMES_9.10.3_x64-setup.exe"
     }
   }
 }

@@ -1,11 +1,11 @@
 {
-  "version": "9.10.4",
-  "notes": "AMES v9.10.04: no more false 'AMES stopped unexpectedly' message; only one copy of AMES runs at a time (stronger check); mnsh.net links everywhere (bottom line, About, Store, COS: WEBSITE / MNSH); older windows (About, EULA, Specs, Licenses, Feedback, Updates, FAM) now in the door look; Chippy home button on every door page and screen; reports carry machine, Windows version and install ID (you see it all before sending).",
-  "pub_date": "2026-11-05T23:01:31Z",
+  "version": "9.10.5",
+  "notes": "AMES v9.10.05 \u2014 security build + Report Center: REPORT A BUG \u00b7 REQUEST A FEATURE \u00b7 OTHER ISSUE \u00b7 ASK A QUESTION in the AMES Mail top line (reports go straight to the AMES team); C \u00b7 (?) \u00b7 volume now stay in one fixed spot on every screen; TESN time no longer runs under the CORE light; safer file opening in Memoir, Media Gallery, Diagram and Audio; \u03a3Medical records encrypted on this computer (asks for a \u03a3Medical passphrase the first time); Geoff answers once an AI connection is made; new BYOS tile (coming) in the SU door.",
+  "pub_date": "2026-11-06T04:59:07Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3ZyMHhUZ1h1c0p6OXFOMEF2ZDdPYmtWdjI4TEFsOU40TGRPdVIxbHhoOVpoOUIvV0QvalBEcTBKUlJ3cFBudU5RU05sVXM3clExakduNVRHL0VyRkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTE5NjkwCWZpbGU6QU1FU185LjEwLjRfeDY0LXNldHVwLmV4ZQpxbnNZN3FqQVFRcm5mVWQxK0dSZVZxY3NEdjdiU0dkK2JMeG1GMVZMblZkM3ZFM1FabHQ0dExmbmV6ekxPK2RVblBpTGt4K1k5NVkzb1lIb1pTMWVDZz09Cg==",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.10.4/AMES_9.10.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU2h0R2RqaWszYk8rbnBYWFBZN1FxRDduZno5dGxJdXUxeWZ1aXhONmZaak5NVzlDU0NDUGhQWlhEVSthRkJJS2FEU25MZFVKLzF3UnlISmdjc09YL2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTQxMTQ3CWZpbGU6QU1FU185LjEwLjVfeDY0LXNldHVwLmV4ZQo5V3RlRGJydUhjVWRkT0VVeEtFUndkQ1IrWW1pRTRIdUtXWVJCcjd3RXdXR1BUU2ljdWZ5MG5jNit0bWgvdDduZFJJUTRGQVh2TEhTTElIZXRmdmdDdz09Cg==",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.10.5/AMES_9.10.5_x64-setup.exe"
     }
   }
 }

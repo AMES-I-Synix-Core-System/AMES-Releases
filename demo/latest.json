@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
-  "notes": "AMES BETA DEMO v1.01.01: new REPORT A BUG \u00b7 REQUEST A FEATURE \u00b7 OTHER ISSUE \u00b7 ASK A QUESTION buttons in AMES Mail \u2014 reports go straight to the AMES team and say which demo copy sent them; C \u00b7 (?) \u00b7 volume stay in one fixed spot; TESN time fits; security fixes; new BYOS tile (coming). Your BETA DEMO key and pass stay as they are. Based on AMES v9.10.05. This BETA DEMO ends on December 31, 2027.",
-  "pub_date": "2026-11-06T05:02:08Z",
+  "version": "1.1.2",
+  "notes": "AMES BETA DEMO v1.01.02: click any AMES logo to send the AMES team a picture of the screen with a bug report (private screens never get a picture); AMES checks for updates as soon as it opens; Core Intrusion Log. Your BETA DEMO key stays as it is. Based on AMES v9.10.06. This BETA DEMO ends on December 31, 2027.",
+  "pub_date": "2026-11-06T06:44:55Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU291ai9Ua2xPbE8xMEh4ODdIbmR1dTZPU2VicGYySjl4YzNrTjQzMnRqaUFmejljMm1odXhGcms1V0pkRG55WHhaZXhXb0Jzc3RMUDhNeDZqdVhFRGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTQxMzI3CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4xLjFfeDY0LXNldHVwLmV4ZQpYK3dPL20vT2JGMHo3YVNvdHlOL2R1L2IyWEdFNHRIZmw2TCt6YUhtaXFjcU9tMEhXaUduQmxIUXJ5cjZuN0JMb0EzckFIY0g1WDE0bDFKVnd5MEZEZz09Cg==",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.1.1/AMES_BETA_DEMO_1.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3ZINGtnUFNPaEdZTzRrRlkyWmNoZXNCYTFTdGl1bGZLakxvK2hPVkwzU09XZ2lheXVyREJ3Ung3YlBVTG1UUXFmYjBtY251Q1BiRjA4QU4xSFdCbndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTQ3NDk0CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4xLjJfeDY0LXNldHVwLmV4ZQpUTFhROHllNE1kQmZZeERzZlhpczU3MUlNR3lVWWppN1NSR3BXT3hNaTBqck80RlJTTTRMUVVPdUdrY0ZMWEVveTEyUWFOb2xVZlBVWlZHTElKS1hCQT09Cg==",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.1.2/AMES_BETA_DEMO_1.1.2_x64-setup.exe"
     }
   }
 }

@@ -1,11 +1,11 @@
 {
-  "version": "1.1.0",
-  "notes": "AMES BETA DEMO v1.01.00: a real BETA DEMO key \u2014 after this update AMES asks once for the key the AMES team sent you (one key, one computer). Fresh start: what the older demo kept is cleared. Based on AMES v9.10.04. This BETA DEMO ends on December 31, 2027.",
-  "pub_date": "2026-11-05T23:51:26Z",
+  "version": "1.1.1",
+  "notes": "AMES BETA DEMO v1.01.01: new REPORT A BUG \u00b7 REQUEST A FEATURE \u00b7 OTHER ISSUE \u00b7 ASK A QUESTION buttons in AMES Mail \u2014 reports go straight to the AMES team and say which demo copy sent them; C \u00b7 (?) \u00b7 volume stay in one fixed spot; TESN time fits; security fixes; new BYOS tile (coming). Your BETA DEMO key and pass stay as they are. Based on AMES v9.10.05. This BETA DEMO ends on December 31, 2027.",
+  "pub_date": "2026-11-06T05:02:08Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3B2TXBEQVhWYmpDdVN0Ynhlcnp6VDV3U1dncktGK3hlWVJpRDJxanJSd3dvYW50eFphbWlpbEFsWnlmc1NvYU55M2w0bzVhWEthQ1ZmbWNRQUVSb1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTIyNjg1CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4xLjBfeDY0LXNldHVwLmV4ZQpFRGswQWlsalNJTjc4eHhoZVdNVWc1bElSQVdaTDFIRy9iQWJGbkVZcHdtOFkwUXo1bGZnNFRRWkhmQ3RoTEg0N1E2WjJweVlCMGN5Z1FlVnVBZUZDZz09Cg==",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.1.0/AMES_BETA_DEMO_1.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU291ai9Ua2xPbE8xMEh4ODdIbmR1dTZPU2VicGYySjl4YzNrTjQzMnRqaUFmejljMm1odXhGcms1V0pkRG55WHhaZXhXb0Jzc3RMUDhNeDZqdVhFRGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTQxMzI3CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4xLjFfeDY0LXNldHVwLmV4ZQpYK3dPL20vT2JGMHo3YVNvdHlOL2R1L2IyWEdFNHRIZmw2TCt6YUhtaXFjcU9tMEhXaUduQmxIUXJ5cjZuN0JMb0EzckFIY0g1WDE0bDFKVnd5MEZEZz09Cg==",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.1.1/AMES_BETA_DEMO_1.1.1_x64-setup.exe"
     }
   }
 }

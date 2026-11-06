@@ -1,11 +1,11 @@
 {
-  "version": "1.1.2",
-  "notes": "AMES BETA DEMO v1.01.02: click any AMES logo to send the AMES team a picture of the screen with a bug report (private screens never get a picture); AMES checks for updates as soon as it opens; Core Intrusion Log. Your BETA DEMO key stays as it is. Based on AMES v9.10.06. This BETA DEMO ends on December 31, 2027.",
-  "pub_date": "2026-11-06T06:44:55Z",
+  "version": "1.1.3",
+  "notes": "AMES BETA DEMO v1.01.03 \u2014 the BETA DEMO can now run side by side with AMES on the same computer.",
+  "pub_date": "2026-11-06T16:28:19Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3ZINGtnUFNPaEdZTzRrRlkyWmNoZXNCYTFTdGl1bGZLakxvK2hPVkwzU09XZ2lheXVyREJ3Ung3YlBVTG1UUXFmYjBtY251Q1BiRjA4QU4xSFdCbndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTQ3NDk0CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4xLjJfeDY0LXNldHVwLmV4ZQpUTFhROHllNE1kQmZZeERzZlhpczU3MUlNR3lVWWppN1NSR3BXT3hNaTBqck80RlJTTTRMUVVPdUdrY0ZMWEVveTEyUWFOb2xVZlBVWlZHTElKS1hCQT09Cg==",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.1.2/AMES_BETA_DEMO_1.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU2pjSVFpNGV3UnJEYnozWlU1SjZhdzhORnF2Lzc5clRCSmp0ai9FQVExelB0b0l3VElpeUM2REdXaHZpNDJ3ekhyNzdxeWR4WGJLcFlmK0p1azVkMXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTgyNDk4CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4xLjNfeDY0LXNldHVwLmV4ZQpzZ085cWR1dGxFa3dSYVZtSFFUMys1WndiSjFnU0tqWUh0UUU5QmNPY29EMnFBWHlDMUJxa3k0MkRYWGgxaVg2NkQ3MjVKR1FsVkc3Z2FyVldLc3hDdz09Cg==",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.1.3/AMES_BETA_DEMO_1.1.3_x64-setup.exe"
     }
   }
 }

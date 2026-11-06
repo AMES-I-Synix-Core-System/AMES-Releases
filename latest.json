@@ -1,11 +1,11 @@
 {
-  "version": "9.10.7",
-  "notes": "AMES v9.10.07 \u2014 AMES, the BETA DEMO and AMES DEV can now run side by side on one computer. Each one still allows only one copy of itself (DEV has no limit).",
-  "pub_date": "2026-11-06T16:17:26Z",
+  "version": "9.10.8",
+  "notes": "AMES v9.10.08 \u2014 the \ud83d\ude97 TOUR button (top bar, left of the volume) takes the tour again any time. Put it away from inside the tour and it waits in Chippy and in B-COS (type tour).",
+  "pub_date": "2026-11-06T20:10:03Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU2dNNHowb3h5bTZxVldqSG5oZWlra21lU2lFWloxVXJ3NG50TklFazU1TjF0WkxSZ1B2TVFTQTZHYUF0OTVYY1hxY2JhSXlnMlBJQUhITjFzUmZBckE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTgxODQ1CWZpbGU6QU1FU185LjEwLjdfeDY0LXNldHVwLmV4ZQpCdy9MVkVIWklWUkJqQnFNaXNxSjJlOHdoeEE2VDJkODhrZENsVEVOZTdpRTZXclZTVHJqSnEzQ3R2NFBWNUN5Y3lFbTluWGFlM3BqTDRKbE50V1JBQT09Cg==",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.10.7/AMES_9.10.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3FYbG5wd08zS2lBSnJINzRLVXZPd3R5R3BWeCtTSE4rNUk0bWpQcDlxM2cvRXFwSk96TXZwRm1OMHR4dTlEUlk1NzhvUFNOVEMxUDJWU0tKUVpuUEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTk1ODAyCWZpbGU6QU1FU185LjEwLjhfeDY0LXNldHVwLmV4ZQpEVy9MaTBkSzRSSWdXMzB3NTNXNWJoWVBYSTZnRlFGeGMyUU81b3A0NjJJVUJrQTVaVTZmNG9sVHEvVWtZSW5CS20zemc4SllwMjl3MXI4ZDFGaHdCZz09Cg==",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.10.8/AMES_9.10.8_x64-setup.exe"
     }
   }
 }

@@ -1,11 +1,11 @@
 {
-  "version": "9.10.6",
-  "notes": "AMES v9.10.06 \u2014 click any AMES logo to send the AMES team a picture of the screen with a bug report (private screens never get a picture, and Windows screen capture sees them as black); AMES checks for updates as soon as it opens; new Core Intrusion Log for the Power User (records attempts to automate or extract the AMES Core \u2014 nobody is ever locked out of their work).",
-  "pub_date": "2026-11-06T06:44:45Z",
+  "version": "9.10.7",
+  "notes": "AMES v9.10.07 \u2014 AMES, the BETA DEMO and AMES DEV can now run side by side on one computer. Each one still allows only one copy of itself (DEV has no limit).",
+  "pub_date": "2026-11-06T16:17:26Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU2htZWtaQXZUZG1XODBqWDBYdzFzclRTN3dUM2RYdUlJWDlCTFBnY0FNZklZaEs3Y2tYdXlnSzBUazBrY05SZFlPTDFCallkTWpKSkw0TWJ5Wk02VmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTQ3NDg0CWZpbGU6QU1FU185LjEwLjZfeDY0LXNldHVwLmV4ZQpBTit4czcralhIMk1hem42QWp4SjcwYnJVTGUyeHR5Q3RwZDdSQVNkQ0JrbStzU0N1RUNra0FtNWpyajJ0ZXVHNFppdlVQK0szWlF1NW1qZHhjRWlBZz09Cg==",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.10.6/AMES_9.10.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU2dNNHowb3h5bTZxVldqSG5oZWlra21lU2lFWloxVXJ3NG50TklFazU1TjF0WkxSZ1B2TVFTQTZHYUF0OTVYY1hxY2JhSXlnMlBJQUhITjFzUmZBckE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTgxODQ1CWZpbGU6QU1FU185LjEwLjdfeDY0LXNldHVwLmV4ZQpCdy9MVkVIWklWUkJqQnFNaXNxSjJlOHdoeEE2VDJkODhrZENsVEVOZTdpRTZXclZTVHJqSnEzQ3R2NFBWNUN5Y3lFbTluWGFlM3BqTDRKbE50V1JBQT09Cg==",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/v9.10.7/AMES_9.10.7_x64-setup.exe"
     }
   }
 }

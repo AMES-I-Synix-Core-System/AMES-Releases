@@ -1,11 +1,11 @@
 {
-  "version": "1.1.3",
-  "notes": "AMES BETA DEMO v1.01.03 \u2014 the BETA DEMO can now run side by side with AMES on the same computer.",
-  "pub_date": "2026-11-06T16:28:19Z",
+  "version": "1.1.4",
+  "notes": "AMES BETA DEMO v1.01.04 \u2014 the \ud83d\ude97 TOUR button: take the tour again any time (top bar, left of the volume; also in Chippy and in B-COS).",
+  "pub_date": "2026-11-06T20:10:14Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU2pjSVFpNGV3UnJEYnozWlU1SjZhdzhORnF2Lzc5clRCSmp0ai9FQVExelB0b0l3VElpeUM2REdXaHZpNDJ3ekhyNzdxeWR4WGJLcFlmK0p1azVkMXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTgyNDk4CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4xLjNfeDY0LXNldHVwLmV4ZQpzZ085cWR1dGxFa3dSYVZtSFFUMys1WndiSjFnU0tqWUh0UUU5QmNPY29EMnFBWHlDMUJxa3k0MkRYWGgxaVg2NkQ3MjVKR1FsVkc3Z2FyVldLc3hDdz09Cg==",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.1.3/AMES_BETA_DEMO_1.1.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3RNQ0dqUnMreW8vWDg1YTFXSXlybzY1ajIzYmhDODlqVlRHMldSU1dPeXNsMFdUYzV0UzJZWGFGOTF6VmE2Qno2SEpSK0lsZlBRMC9EN05PekdnZ0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTk1ODE0CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4xLjRfeDY0LXNldHVwLmV4ZQpMejVWY3F6Mnk4c0U5UTA1WThpc3BOUGxJa09yWFQyRzJJeldRdVJEL1RERGVNVk82OWs0U2lNQTNvZjJQN2ZUaURHaWxiWmU0ZzdkUU5IaHFqZElEdz09Cg==",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.1.4/AMES_BETA_DEMO_1.1.4_x64-setup.exe"
     }
   }
 }

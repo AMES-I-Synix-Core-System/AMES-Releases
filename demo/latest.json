@@ -1,11 +1,11 @@
 {
-  "version": "1.2.0",
-  "notes": "AMES BETA DEMO v1.02.00 \u2014 the big update: N\u00b2C chat (sign up with your demo key, chat with other testers), the NovaLIX browser, and every AMES improvement since v1.01.04. Your work and your demo key are kept.",
-  "pub_date": "2026-11-20T18:23:59Z",
+  "version": "1.2.1",
+  "notes": "AMES BETA DEMO v1.02.01 \u2014 change your chat photo easily: in N\u00b2C, click your own picture (or Change my photo) to open the photo editor \u2014 crop, zoom, rotate, then Use photo.",
+  "pub_date": "2026-11-20T19:40:03Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3Fhd1pFUy9EQ1Qzb0hjMVdsRThlVVZhdFI0bTh4VTNIaDl0REVIaGRwK0FhOXRpN3EvUlRLZlRxVGpPbmRnNktIQzhDRUNOcnJEZlBwbW5jZ3lRMmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTk5MDM4CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4yLjBfeDY0LXNldHVwLmV4ZQpQR1laWU9laUNSV3dFQWZub01XSkdEd3ZmKzRiZWtxZnpuV2NvUlZBUmhmTHNEZUtmaDBCYzNBWHVsK0RUNHBUbGFpWkpRampBOWNwenhzVkljUHJCZz09Cg==",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.2.0/AMES_BETA_DEMO_1.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3U4NnRSQUNzeFNETHArajNrVEc1Y3FialRiOWVUVFJlUGFjNCt2MUdYeXFLelB0Rk14S2U5MDMrTGRPQ3hUUWxCOWJOWURVSTJmU2RxQ2d5WnZDM1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjAzNjAyCWZpbGU6QU1FU19CRVRBX0RFTU9fMS4yLjFfeDY0LXNldHVwLmV4ZQp0UEIxRXVjYWE5OXZhaVdjSlVxQUcwR3hUSytrODh5NFRHNThIKzJHZUpvREZyNHlOUGt5TGo4U09NdGVmaGpnaDhHbjNBN0JqZkhmRVl2TVVLQy9BQT09Cg==",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.2.1/AMES_BETA_DEMO_1.2.1_x64-setup.exe"
     }
   }
 }

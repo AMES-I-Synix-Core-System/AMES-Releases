@@ -1,11 +1,11 @@
 {
-  "version": "1.1.4",
-  "notes": "AMES BETA DEMO v1.01.04 \u2014 the \ud83d\ude97 TOUR button: take the tour again any time (top bar, left of the volume; also in Chippy and in B-COS).",
-  "pub_date": "2026-11-06T20:10:14Z",
+  "version": "1.2.0",
+  "notes": "AMES BETA DEMO v1.02.00 \u2014 the big update: N\u00b2C chat (sign up with your demo key, chat with other testers), the NovaLIX browser, and every AMES improvement since v1.01.04. Your work and your demo key are kept.",
+  "pub_date": "2026-11-20T18:23:59Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3RNQ0dqUnMreW8vWDg1YTFXSXlybzY1ajIzYmhDODlqVlRHMldSU1dPeXNsMFdUYzV0UzJZWGFGOTF6VmE2Qno2SEpSK0lsZlBRMC9EN05PekdnZ0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTk1ODE0CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4xLjRfeDY0LXNldHVwLmV4ZQpMejVWY3F6Mnk4c0U5UTA1WThpc3BOUGxJa09yWFQyRzJJeldRdVJEL1RERGVNVk82OWs0U2lNQTNvZjJQN2ZUaURHaWxiWmU0ZzdkUU5IaHFqZElEdz09Cg==",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.1.4/AMES_BETA_DEMO_1.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3Fhd1pFUy9EQ1Qzb0hjMVdsRThlVVZhdFI0bTh4VTNIaDl0REVIaGRwK0FhOXRpN3EvUlRLZlRxVGpPbmRnNktIQzhDRUNOcnJEZlBwbW5jZ3lRMmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTk5MDM4CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4yLjBfeDY0LXNldHVwLmV4ZQpQR1laWU9laUNSV3dFQWZub01XSkdEd3ZmKzRiZWtxZnpuV2NvUlZBUmhmTHNEZUtmaDBCYzNBWHVsK0RUNHBUbGFpWkpRampBOWNwenhzVkljUHJCZz09Cg==",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.2.0/AMES_BETA_DEMO_1.2.0_x64-setup.exe"
     }
   }
 }

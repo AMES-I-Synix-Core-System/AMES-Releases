@@ -1,11 +1,11 @@
 {
-  "version": "1.2.3",
-  "notes": "AMES BETA DEMO 1.02.03: Chat Rules & Controls panel with icons, info cards and Save; one right-click person menu; every chat pop-up in the same easy panel; New Orbit in 4 steps; Hub with Favourites; UINs in the Remote/You windows (click to copy); COS uin and many new commands; emojis follow the font size; typing finds the message box",
-  "pub_date": "2026-11-21T07:09:29Z",
+  "version": "1.2.4",
+  "notes": "AMES BETA DEMO 1.02.04: Top 10 photos across the top of N\u00b2C (right-click anyone > Add to Top 10); N\u00b2C Controls Home with four doors - Hub (your people), Orbits (setup with 12 kinds), Rules (rule sets you build once and use), Data Storage (see, save, print, purge); paste a UIN to just chat",
+  "pub_date": "2026-11-21T20:09:09Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3FNMGdVN3QwNnYyOHlSc3hNVGdKRmprdEFmRW1rRHd2NVpNYUlwdTA0VmdiVUJaV0JJVUxQOWIwR1NNQXFwbHYxU2FGdE8wcGEzb0NCQVlpY0JwdlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjQ0OTY4CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4yLjNfeDY0LXNldHVwLmV4ZQpicjAwRjRvQklJczRhcXZMMXExQkxjZmxQTW9MNzlnQndtbWJwdXAxeFlibGVSVE50cDNOVjBEQWNWeXN6cFFvcEtlcUlRZHR3NDdRbHVBeHBLVWlCUT09Cg==",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.2.3/AMES_BETA_DEMO_1.2.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3ZjL05hRnlwUUlpUTBudzk2bVVRYmpFS3dRbzVpemRBOXVIQ25KUVgvMFZsbkVucXY1UU1VRDRObVhoempWQk9ZSTMzYzZvd3RWUktnUHpIenFHZ2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjkxNzQ4CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4yLjRfeDY0LXNldHVwLmV4ZQptWFB1NUVVWUVTR2Q1UVlZNTJpcFdYQWZyTnBaQkNZQktVRFp3djEvRERRamJ6S0pDRlpFWWp4YlRsNTdxQnVndzZNazNIRlZjVzM0ZkpMRmxldG1EQT09Cg==",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.2.4/AMES_BETA_DEMO_1.2.4_x64-setup.exe"
     }
   }
 }

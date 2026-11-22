@@ -1,11 +1,11 @@
 {
-  "version": "1.2.4",
-  "notes": "AMES BETA DEMO 1.02.04: Top 10 photos across the top of N\u00b2C (right-click anyone > Add to Top 10); N\u00b2C Controls Home with four doors - Hub (your people), Orbits (setup with 12 kinds), Rules (rule sets you build once and use), Data Storage (see, save, print, purge); paste a UIN to just chat",
-  "pub_date": "2026-11-21T20:09:09Z",
+  "version": "1.2.5",
+  "notes": "AMES BETA DEMO 1.02.05: the N\u00b2C button in the Navigation Bar glows and new messages count while another module is in front of N\u00b2C",
+  "pub_date": "2026-11-22T01:11:15Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU3ZjL05hRnlwUUlpUTBudzk2bVVRYmpFS3dRbzVpemRBOXVIQ25KUVgvMFZsbkVucXY1UU1VRDRObVhoempWQk9ZSTMzYzZvd3RWUktnUHpIenFHZ2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjkxNzQ4CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4yLjRfeDY0LXNldHVwLmV4ZQptWFB1NUVVWUVTR2Q1UVlZNTJpcFdYQWZyTnBaQkNZQktVRFp3djEvRERRamJ6S0pDRlpFWWp4YlRsNTdxQnVndzZNazNIRlZjVzM0ZkpMRmxldG1EQT09Cg==",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.2.4/AMES_BETA_DEMO_1.2.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU2hQODdZanUyTHJUMExhdTZubVk3RzRIRkpFUXFacDJSMVozeWNhY2x1cW92V1NpanJOTWJxQ0w5QzNxb0JjcnMzWWtKSit3UWNMSlZYbUE5bGlaS2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzA5ODc1CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4yLjVfeDY0LXNldHVwLmV4ZQpwbmNtcG9FdW4wN3VYbHJJZVJRcFk5Z2NJZGFlekRtMjYyVFB6RVFCVHBaRWVobzBRYTc1QzBVR1p6cDhqeGlZc21HZkhpTGdseTdIY1czUitlWHZEZz09Cg==",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.2.5/AMES_BETA_DEMO_1.2.5_x64-setup.exe"
     }
   }
 }

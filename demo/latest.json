@@ -1,11 +1,11 @@
 {
-  "version": "1.2.6",
-  "notes": "AMES BETA DEMO 1.02.06: a new message pops up under the N\u00b2C button (photo, NEW MESSAGE, time, name or UIN); Windows notification when AMES is minimized; the N\u00b2C button glows and counts",
-  "pub_date": "2026-11-22T02:23:49Z",
+  "version": "1.2.7",
+  "notes": "AMES BETA DEMO 1.02.07: NovaLIX \u25b2 tucks the bars away for more page (\u25bc brings them back); N\u00b2C and \u2699 in the corner; the Nova Start star opens MNSH.net; SYSTEMS rail C = NovaLIX, D = N\u00b2C; N\u00b2C and NovaLIX always bring each other up",
+  "pub_date": "2026-11-22T03:39:35Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU29QcDRRdExRckVTQXZVRU9uSEFJUDJ1ZFBwL1hYL2wzd201Ui9vcHAxSndNY1F1d2FiYm95U2t6ODNPME1JWS93M05CMlZtOURPMUk3NC9FajcxNFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzE0MjI4CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4yLjZfeDY0LXNldHVwLmV4ZQpaS2loQmRRVDhsU3JUWkllVmxCU2QzVVZSOWFMbVIvaXMza1NPWlFhc1h5QkJ3d3M1ZDdTTXd6ZUg4N1lpQ3JsOEpKSjZjRnRadTNjMzQ3K0JBNXVDdz09Cg==",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.2.6/AMES_BETA_DEMO_1.2.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU2pUU1h0c3BNWGVmYzVRZmpqYW10ZnhScGI4OGdSMTVyTFZ6MllsdlRvNk5zV2Q5aldpOEtnY2xSMGVZVWRCN0Nsa1hxUHgzOVNRelo1WDlia0xhclFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzE4Nzc1CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4yLjdfeDY0LXNldHVwLmV4ZQo1c24xMTBpOW8vRlBnaktLWjdzdnNidjlTcVJDNm5BZFVVbU1IMDgwR2g2SnlhaWhBc09XdVpmYThXd0dUSnV0SjdFbFF2TWZmaEpldkdDWER3bnRCQT09Cg==",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.2.7/AMES_BETA_DEMO_1.2.7_x64-setup.exe"
     }
   }
 }

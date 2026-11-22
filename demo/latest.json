@@ -1,11 +1,11 @@
 {
-  "version": "1.2.7",
-  "notes": "AMES BETA DEMO 1.02.07: NovaLIX \u25b2 tucks the bars away for more page (\u25bc brings them back); N\u00b2C and \u2699 in the corner; the Nova Start star opens MNSH.net; SYSTEMS rail C = NovaLIX, D = N\u00b2C; N\u00b2C and NovaLIX always bring each other up",
-  "pub_date": "2026-11-22T03:39:35Z",
+  "version": "1.2.8",
+  "notes": "BETA DEMO 1.02.08: all 5,071 emojis in AMES Packs (Nov 18 set + the new 3D / Noto / Twemoji / HD flags set). NSFW 18+ stays locked until age verification is built.",
+  "pub_date": "2026-11-22T14:26:59Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU2pUU1h0c3BNWGVmYzVRZmpqYW10ZnhScGI4OGdSMTVyTFZ6MllsdlRvNk5zV2Q5aldpOEtnY2xSMGVZVWRCN0Nsa1hxUHgzOVNRelo1WDlia0xhclFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzE4Nzc1CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4yLjdfeDY0LXNldHVwLmV4ZQo1c24xMTBpOW8vRlBnaktLWjdzdnNidjlTcVJDNm5BZFVVbU1IMDgwR2g2SnlhaWhBc09XdVpmYThXd0dUSnV0SjdFbFF2TWZmaEpldkdDWER3bnRCQT09Cg==",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.2.7/AMES_BETA_DEMO_1.2.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU21iaURVb2NBTG9ZQUVRUWdKV2diZG0rNmE4QlBCSmllT01HYkg5YTN0c1JSZWZpc3hsRnhyeDNFZHp2ZXl3eGZQK0Nhb1I1T0szaXBGeVgzdFVlTmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzU3NjE4CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4yLjhfeDY0LXNldHVwLmV4ZQpzSWJGclVOV2czdDZPYjc5Nm8rdmtTbitVOTRXRWRhWnJhQXRRbDdwRWtKR1FIR2JPM3Z4MFBzdEtkdHNMY3pWMnRyLzhwaHhqeTRZMkhUYWUzOGVBZz09Cg==",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.2.8/AMES_BETA_DEMO_1.2.8_x64-setup.exe"
     }
   }
 }

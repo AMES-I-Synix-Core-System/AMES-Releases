@@ -1,11 +1,11 @@
 {
-  "version": "1.2.9",
-  "notes": "BETA DEMO 1.02.09: G.U.I.L.D. identity (register, sign in, recover, this machine), PAL Admins, plus Sticky Pad, N2C reactions and stickers, smart COS, Hover Tips, Steady State and Public mode, Windows keys, AMES Directory and Cartography Downloads",
-  "pub_date": "2026-11-28T00:20:41Z",
+  "version": "10.0.0",
+  "notes": "AMES BETA DEMO v10.00.00: hover zoom on the nav bars, screen saver set by the Power User (SST), stat, master lists (ml, mlc), lighter labels; passwords stay demo and Reset the demo on the sign-in screen",
+  "pub_date": "2026-11-28T05:29:40Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU25NWnVRN010WWJteEhDL1MxR2Frd3ZiK3BYY2d3eXFxVHlTbEtIeVpqOHZLZ0lhbVZ5UzJZMHl5b24ya1pzQk92Ty91SWJibXlSUDViQVgvODZMS0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODI1MjQwCWZpbGU6QU1FU19CRVRBX0RFTU9fMS4yLjlfeDY0LXNldHVwLmV4ZQp1dENYSkxNUXVIQTg3RVpwRmdnRjNuMU1GRGR2a05tNGNzRTQybHl2aDJIM1BRRVkwSFFUaHVZT3Z2WlJiQzhDRXpISGpuOVdmQkJZWDNLRnhYRVRCUT09Cg==",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.2.9/AMES_BETA_DEMO_1.2.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU29uSlV2UmIyam1ONkFTd3l1ZjBTU2l2Njd2U3BMbDRFSkhSUEVOWUdUMkJTQXQxcFh1b3VqS1RobHd3aDhyanhFN21tdGw4Vkx2ckZQVWFUVXhldGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODQzNzgwCWZpbGU6QU1FU19CRVRBX0RFTU9fMTAuMC4wX3g2NC1zZXR1cC5leGUKU0UwVGFTWjEwSUtwcGs5enkyd2lCamNMbzdUK0R2T1R5Y1V6QzFYM2JOcGlpKzFMMkZYUk1jWW1ERVhwcENzNHJrUnk3bUpsek5HUE5pNDVhaGNoRFE9PQo=",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v10.0.0/AMES_BETA_DEMO_10.0.0_x64-setup.exe"
     }
   }
 }

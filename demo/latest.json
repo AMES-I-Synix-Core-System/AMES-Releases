@@ -1,11 +1,11 @@
 {
-  "version": "1.2.8",
-  "notes": "BETA DEMO 1.02.08: all 5,071 emojis in AMES Packs (Nov 18 set + the new 3D / Noto / Twemoji / HD flags set). NSFW 18+ stays locked until age verification is built.",
-  "pub_date": "2026-11-22T14:26:59Z",
+  "version": "1.2.9",
+  "notes": "BETA DEMO 1.02.09: G.U.I.L.D. identity (register, sign in, recover, this machine), PAL Admins, plus Sticky Pad, N2C reactions and stickers, smart COS, Hover Tips, Steady State and Public mode, Windows keys, AMES Directory and Cartography Downloads",
+  "pub_date": "2026-11-28T00:20:41Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU21iaURVb2NBTG9ZQUVRUWdKV2diZG0rNmE4QlBCSmllT01HYkg5YTN0c1JSZWZpc3hsRnhyeDNFZHp2ZXl3eGZQK0Nhb1I1T0szaXBGeVgzdFVlTmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzU3NjE4CWZpbGU6QU1FU19CRVRBX0RFTU9fMS4yLjhfeDY0LXNldHVwLmV4ZQpzSWJGclVOV2czdDZPYjc5Nm8rdmtTbitVOTRXRWRhWnJhQXRRbDdwRWtKR1FIR2JPM3Z4MFBzdEtkdHNMY3pWMnRyLzhwaHhqeTRZMkhUYWUzOGVBZz09Cg==",
-      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.2.8/AMES_BETA_DEMO_1.2.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRclg0ZlFIcUZFU25NWnVRN010WWJteEhDL1MxR2Frd3ZiK3BYY2d3eXFxVHlTbEtIeVpqOHZLZ0lhbVZ5UzJZMHl5b24ya1pzQk92Ty91SWJibXlSUDViQVgvODZMS0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODI1MjQwCWZpbGU6QU1FU19CRVRBX0RFTU9fMS4yLjlfeDY0LXNldHVwLmV4ZQp1dENYSkxNUXVIQTg3RVpwRmdnRjNuMU1GRGR2a05tNGNzRTQybHl2aDJIM1BRRVkwSFFUaHVZT3Z2WlJiQzhDRXpISGpuOVdmQkJZWDNLRnhYRVRCUT09Cg==",
+      "url": "https://raw.githubusercontent.com/AMES-I-Synix-Core-System/AMES-Releases/main/releases/demo-v1.2.9/AMES_BETA_DEMO_1.2.9_x64-setup.exe"
     }
   }
 }
